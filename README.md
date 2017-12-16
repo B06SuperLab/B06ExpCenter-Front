@@ -1,2 +1,5 @@
 # B06ExpCenter-Front
-## This sentence is writen by watt lee on 28.11.2017 to test his Githubs 
+### B06体验中心前端项目
+
+## 主页设计稿
+![Home-Design](https://github.com/B06SuperLab/B06ExpCenter-Front/blob/master/Home-Design.png)
